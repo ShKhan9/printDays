@@ -12,6 +12,7 @@
 		39EF198F1E95056A00304644 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39EF198D1E95056A00304644 /* Main.storyboard */; };
 		39EF19911E95056A00304644 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39EF19901E95056A00304644 /* Assets.xcassets */; };
 		39EF19941E95056A00304644 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39EF19921E95056A00304644 /* LaunchScreen.storyboard */; };
+		39EF199C1E9513C400304644 /* bran2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39EF199B1E9513C400304644 /* bran2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		39EF19901E95056A00304644 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		39EF19931E95056A00304644 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		39EF19951E95056A00304644 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39EF199B1E9513C400304644 /* bran2ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = bran2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				39EF19891E95056A00304644 /* AppDelegate.swift */,
 				39EF198B1E95056A00304644 /* ViewController.swift */,
+				39EF199B1E9513C400304644 /* bran2ViewController.swift */,
 				39EF198D1E95056A00304644 /* Main.storyboard */,
 				39EF19901E95056A00304644 /* Assets.xcassets */,
 				39EF19921E95056A00304644 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39EF198C1E95056A00304644 /* ViewController.swift in Sources */,
+				39EF199C1E9513C400304644 /* bran2ViewController.swift in Sources */,
 				39EF198A1E95056A00304644 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
