@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		39754AFB1E95461E0007CFB6 /* testMergeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39754AFA1E95461E0007CFB6 /* testMergeViewController.swift */; };
 		39EF198A1E95056A00304644 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39EF19891E95056A00304644 /* AppDelegate.swift */; };
 		39EF198C1E95056A00304644 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39EF198B1E95056A00304644 /* ViewController.swift */; };
 		39EF198F1E95056A00304644 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39EF198D1E95056A00304644 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		39754AFA1E95461E0007CFB6 /* testMergeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = testMergeViewController.swift; sourceTree = "<group>"; };
 		39EF19861E95056A00304644 /* printDays.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = printDays.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39EF19891E95056A00304644 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		39EF198B1E95056A00304644 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				39EF19891E95056A00304644 /* AppDelegate.swift */,
 				39EF198B1E95056A00304644 /* ViewController.swift */,
+				39754AFA1E95461E0007CFB6 /* testMergeViewController.swift */,
 				39EF198D1E95056A00304644 /* Main.storyboard */,
 				39EF19901E95056A00304644 /* Assets.xcassets */,
 				39EF19921E95056A00304644 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39754AFB1E95461E0007CFB6 /* testMergeViewController.swift in Sources */,
 				39EF198C1E95056A00304644 /* ViewController.swift in Sources */,
 				39EF198A1E95056A00304644 /* AppDelegate.swift in Sources */,
 			);
