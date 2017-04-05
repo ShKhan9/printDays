@@ -19,6 +19,8 @@ class ViewController: UIViewController {
         let d = 5
         
         
+        let er = 20
+        
     }
 
     override func didReceiveMemoryWarning() {
